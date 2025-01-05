@@ -1,4 +1,4 @@
-PineapplePay Examples
+# PineapplePay Examples
 Este repositório contém exemplos práticos de como utilizar a API da PineapplePay em diferentes linguagens de programação. Cada diretório apresenta um conjunto de funções que simulam o fluxo básico de pagamento, estorno, busca de transações e transferência.
 
 Objetivo
