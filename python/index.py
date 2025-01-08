@@ -2,7 +2,7 @@ import requests
 from typing import Optional, Dict, Any
 
 class PineapplePayClient:
-    BASE_URL = "https://api.pineapplepay.co"
+    BASE_URL = "https://api.lottuspay.com"
 
     def __init__(self, client_id: str, client_secret: str) -> None:
         self.client_id = client_id
