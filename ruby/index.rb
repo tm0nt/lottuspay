@@ -5,7 +5,7 @@ require 'faraday'
 require 'json'
 
 class PineapplePayClient
-  BASE_URL = 'https://api.pineapplepay.co'.freeze
+  BASE_URL = 'https://api.lottuspay.com'.freeze
 
   def initialize(client_id, client_secret)
     @client_id = client_id
