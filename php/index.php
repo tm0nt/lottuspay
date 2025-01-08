@@ -9,7 +9,7 @@ use GuzzleHttp\Exception\GuzzleException;
 
 class PineapplePayClient
 {
-    private const BASE_URL = 'https://api.pineapplepay.co';
+    private const BASE_URL = 'https://api.lottuspay.com';
     private string $clientId;
     private string $clientSecret;
     private Client $httpClient;
