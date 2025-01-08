@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Definir a URL base da API
-const BASE_URL = 'https://api.pineapplepay.co';
+const BASE_URL = 'https://api.lottuspay.com';
 
 // Interfaces para os corpos das requisições
 interface PaymentRequest {
